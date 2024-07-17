@@ -1,0 +1,25 @@
+{
+  "userID": "47538",
+  "uodateDate": "2023-10-19",
+  "account": {
+    "externalId": "12234",
+    "effectiveDate": "2023-01-12",
+    "systemId": "09987676",
+    "version": "1",
+    "recordType": "Individual",
+    "household": {
+      "Id": "",
+      "externalID": ""
+    },
+    "phone": {
+      "records": [],
+      "id": "",
+      "phoneNumber": "",
+      "usage": "",
+      "isPrimary": "",
+      "SpecialInstructions": "",
+      "comment": "",
+      "SpecialInstructionsManaged": ""
+    }
+  }
+}
